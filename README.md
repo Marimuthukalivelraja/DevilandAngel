@@ -1,0 +1,1 @@
+This is the type of Ransomware which can encrypt and decrypt the files in the directory.

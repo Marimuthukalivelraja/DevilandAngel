@@ -1,0 +1,9 @@
+
+file1.txt
+file2.txt
+file3.txt
+thekey.key
+
+# Ignore all .txt files 
+*.txt
+
